@@ -1,0 +1,8 @@
+database.db
+.env
+app/uploads/*
+sample/*
+!app/uploads/.gitkeep
+__pycache__
+env
+.vscode
